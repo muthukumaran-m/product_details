@@ -1,5 +1,5 @@
-# Github-issue-tracker
-A task to maintain git issues in two way sync using Laravel
+# Brand - Product tracker
+A task to maintain brand - product details using Laravel
 
 ## Prerequisites
 - Composer
